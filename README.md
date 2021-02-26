@@ -10,7 +10,7 @@ If you could choose one part of your work on these documents to revise, what wou
 - I think I'd adjust my Use Case Diagram.  I would expand it to include everything that it needs.  I feel like certain items were shorted because I was running out of time to finish that specific diagram.
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-I interpretted the user's needs by reading through interview questions and determining the most important aspects of the design based on when it was brought up in conversation and how much emphasis was put on it.  Since we couldn't hear directly from an actual customer I had to make judgement calls on a lot of things.  
+- I interpretted the user's needs by reading through interview questions and determining the most important aspects of the design based on when it was brought up in conversation and how much emphasis was put on it.  Since we couldn't hear directly from an actual customer I had to make judgement calls on a lot of things.  
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-Reading through Apple and Android design standards was helpful.  Trying to find other applications that work in a similar fashion and reading through their design standards is also helpful.  This helps get a basic idea of what is expected in the market and how I can implement aspects into my design.  
+- Reading through Apple and Android design standards was helpful.  Trying to find other applications that work in a similar fashion and reading through their design standards is also helpful.  This helps get a basic idea of what is expected in the market and how I can implement aspects into my design.  
